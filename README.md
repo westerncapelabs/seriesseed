@@ -1,7 +1,7 @@
 # seriesseed
 Series Seed Investment Documents for South Africa from http://www.seriesseed.co.za/
 
-In our opinion documents like this should be easy to fork and version and that's why we're cloning them on Github. If the seriesseed team want to set up a GH org we'll happily transfer this to them.
+In our opinion documents like this should be easy to fork, version and track changes and that's why we're cloning them on Github. If the seriesseed team want to set up a GH org we'll happily transfer this to them. Lawyers need to learn how to git, we'll all be better off.
 
 ## Overview
 Well done for taking the bold step to start a business. The Series Seed Documents that you will find below this overview are intended to help you get the right company documents in place so that you can focus on making money. We have tried to make this as clear as we can. Please read these documents as you have a legal duty as a shareholder or director to understand these documents.
@@ -30,3 +30,12 @@ These documents are freely available to the public and may be used by anyone in 
 
 ## No legal advice given
 Finally we are sure that you consider your business to be unique and so it makes sense that you may want to change these documents to better suit your needs. Please feel free to do that, but remember that these documents do not constitute legal advice. You are always better off going to speak to an attorney who will understand your needs.
+
+## Made possible by our partners
+
+![alt text][logo_newtown] ![alt text][logo_esselaar] ![alt text][logo_simodisa] ![alt text][logo_siliconcape]
+
+[logo_newtown]: http://www.seriesseed.co.za/images/8/8d/NP-100h-24bit-Clear.png "Newtown Partners"
+[logo_esselaar]: http://www.seriesseed.co.za/images/7/78/Esselaar_logo.png "Esselaar"
+[logo_simodisa]: http://www.seriesseed.co.za/images/thumb/3/33/SiMODiSA_Logo_Final1.jpg/279px-SiMODiSA_Logo_Final1.jpg "Simodisa"
+[logo_siliconcape]: http://www.seriesseed.co.za/images/thumb/9/97/SC_Initiative_Logo-298x200.png/164px-SC_Initiative_Logo-298x200.png "Silicon Cape"
